@@ -1,5 +1,4 @@
-the backend is called "server" on my repository... It is directly under "image-upload" repository called "server"
-
+This is the link to the backend "https://github.com/inioluwa-1/server"
 
 # React + Vite
 
