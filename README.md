@@ -1,3 +1,6 @@
+the backend is called "server" on my repository... It is directly under "image-upload" repository called "server"
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
